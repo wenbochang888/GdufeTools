@@ -14,7 +14,11 @@
 
 这个API是一个已经毕业的师兄做毕业设计开发的，是PHP进行爬取整理的。
 
+电脑网页版：
 ![Image text](https://github.com/wenbochang888/GdufeTools/blob/master/index.png)
+
+手机端效果(微信里面更加的方便)：
+![Image text](https://github.com/wenbochang888/GdufeTools/blob/master/mobile.png)
 
 ## 项目技术
 
